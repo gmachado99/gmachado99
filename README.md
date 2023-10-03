@@ -3,5 +3,4 @@
 - 🌱 Atualmente estou cursando Gestão de Tecnologia da Informação
 - 💞️ I’m looking to collaborate on ...
 - 📫 gamachado99@gmail.com
-
 - [ ] teste
