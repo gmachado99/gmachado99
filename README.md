@@ -1,9 +1,10 @@
 ### Sobre Mim
 - 👋 Olá, meu nome é Gabriel Machado (@gmachado99)
-- 👀 I’m interested in ...
-- 🌱 Atualmente estou cursando Gestão de Tecnologia da Informação
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Atualmente estou cursando Gestão de Tecnologia da Informação.
 - 📫 gamachado99@gmail.com
 
-- ### Objetivos
-- [ ] teste
+- ### Habilidades
+- [x] PHP
+- [x] HTML
+- [x] CSS
+- [x] MySQL 
